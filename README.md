@@ -1,7 +1,14 @@
+<h1 align="center">Hola 👋 Programo juegos ¿hacemos uno?</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+&nbsp;
+</p>
 
-<span class="title bold">Hola 👋 Programo juegos en js ¿hacemos uno?</span>
-<span clas="subtitle bold">html - css - javascript</span>
-<p>Gato:</p>
+### Angel V
 <!--
 **GarianV/GarianV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
