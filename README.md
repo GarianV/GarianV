@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋 Programo juegos ¿hacemos uno?</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+  <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" height="55"/>
 &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/html_icon_130910.png" height="55"/>
 &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+  <img src="https://static-00.iconduck.com/assets.00/css-3-icon-219x256-29hcz0qj.png" height="55"/>
 &nbsp;
 </p>
 
