@@ -1,5 +1,6 @@
-<h1>Hola 👋 Programo juegos en js ¿hacemos uno?</h1>
-<h3>html - css - javascript</h3>
+
+<span class="title bold">Hola 👋 Programo juegos en js ¿hacemos uno?</span>
+<span clas="subtitle bold">html - css - javascript</span>
 <p>Gato:</p>
 <!--
 **GarianV/GarianV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
