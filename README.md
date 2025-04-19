@@ -1,5 +1,5 @@
-## Hols 👋
-## Programo juegos en js ¿hacemos uno?
+ Hola 👋
+ Programo juegos en js ¿hacemos uno?
 <!--
 **GarianV/GarianV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
